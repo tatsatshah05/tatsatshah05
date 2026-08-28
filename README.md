@@ -18,4 +18,4 @@ Python · C# · TypeScript/JavaScript · Swift · Java · SQL · C Unity · Reac
 
 Find me
 
-LinkedIn · tatsatshah05@gmail.com
+tatsatshah05@gmail.com
